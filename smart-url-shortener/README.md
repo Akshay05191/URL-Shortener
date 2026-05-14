@@ -263,7 +263,6 @@ The client proxies `/api` requests to the backend automatically via Vite's proxy
 **Akshay**
 
 - GitHub: [@akshay](https://github.com/akshay)
-- LinkedIn: [linkedin.com/in/akshay](https://linkedin.com/in/akshay)
 
 ---
 

@@ -79,15 +79,6 @@ Short link click → /r/:code → Express resolves → Redirects to originalUrl
 
 ---
 
-## Screenshots
-
-> Add your screenshots here after deployment.
-
-| Landing Page | Dashboard | Analytics |
-|---|---|---|
-| ![Landing](screenshots/landing.png) | ![Dashboard](screenshots/dashboard.png) | ![Analytics](screenshots/analytics.png) |
-
----
 
 ## Prerequisites
 
